@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=U1-10
+Removed Pin From Net: NetName=GND Pin=U1-11
+Removed Pin From Net: NetName=GND Pin=U1-12
+Removed Pin From Net: NetName=GND Pin=U1-13
+Removed Pin From Net: NetName=GND Pin=U1-14
+Removed Pin From Net: NetName=GND Pin=U1-15
+Removed Pin From Net: NetName=GND Pin=U1-16
+Removed Pin From Net: NetName=GND Pin=U1-17
+Change Component Description : Designator=R4 Old Description=1206 SMT PPTC New Description=1206 SMT PPTC | 0.20 Ih | 30V
+Added Room: Name=Power_Esc
