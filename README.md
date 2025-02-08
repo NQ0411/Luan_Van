@@ -1,7 +1,7 @@
 # Hệ thống vệ sinh cửa kính cho nhà cao tầng
 ## 🚗 **MODEL**
 ### 3D Model
-![alt text](../Luan_Van/3D.png)
+![alt text](../Luan_Van/blob/main/3D.png)
 ### Model 
 ![alt text](../Luan_Van/model.png)
 ## **Đặc tả hệ thống**
