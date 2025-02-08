@@ -3,7 +3,7 @@
 ### 3D Model
 ![alt text](3D.png)
 ### Model 
-![alt text](model.png)
+![alt text](Model.png)
 ## **Đặc tả hệ thống**
 ![alt text](Block_Diagram/dactahethong.png)
 ### Hệ thống được chia làm 4 mạch chính: 
