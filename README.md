@@ -21,7 +21,7 @@
 #### - Block Diagram cho mạch điều khiển động cơ quạt
 ![alt text](Block_Diagram/blockmotorfan.png)
 #### - Mô hình 3D từ Altium 
-![alt text](/Model/Motorfan.png)
+![alt text](Model/Motorfan.png)
 ### Mạch điều khiển hệ thống hoạt động (Rx)
 #### - Block Diagram cho mạch điều khiển hệ thống hoạt động 
 ![alt text](Block_Diagram/blockRx.png)
