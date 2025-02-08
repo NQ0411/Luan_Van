@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=H1-4
+Change Component Footprint: Designator=H1 Old Footprint=XH2.54M-4 New Footprint=XH2.54M-3
+Change Component Comment : Designator=H1 Old Comment=Header 4P 2.54 Duc Thang New Comment=Header 3P 2.54 Duc Thang
+Change component parameters: Designator = "H1" ("H1"); Footprint = "XH2.54M-4"; UniqueID = "\ICXBWYMA" ("\ICXBWYMA")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001292"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 3P XH2.54-3P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power Member=Component  MCP1700T-3302E/TT
+Added Room: Name=H_Bridge_Mosate
+Added Room: Name=Power
