@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=U1-10
-Removed Pin From Net: NetName=GND Pin=U1-11
-Removed Pin From Net: NetName=GND Pin=U1-12
-Removed Pin From Net: NetName=GND Pin=U1-13
-Removed Pin From Net: NetName=GND Pin=U1-14
-Removed Pin From Net: NetName=GND Pin=U1-15
-Removed Pin From Net: NetName=GND Pin=U1-16
-Removed Pin From Net: NetName=GND Pin=U1-17
-Added Room: Name=Fan_Motor_Driver
