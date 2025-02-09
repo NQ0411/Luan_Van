@@ -1,0 +1,5 @@
+Change Component Description : Designator=J3 Old Description=USB Type-C Connector New Description=USB Type-C Connector | 1 Port | Right Angle Receptacle | Shielded | 0.039[1.00mm]
+Added Room: Name=Audio
+Added Room: Name=MAIN_TX
+Added Room: Name=Power_2
+Added Room: Name=USB_C

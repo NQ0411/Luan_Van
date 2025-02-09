@@ -1,0 +1,55 @@
+Added Component: Designator=J2(TE USB-C 2129691-1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "//media.digikey.com/pdf/Data%20Sheets/Tyco%20Electonics%20AMP%20PDFs/2129691_Dwg.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "//digikey.com/product-detail/en/te-connectivity-amp-connectors/2129691-1/A122008TR-ND/5401336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "USB - C (Type - C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "0.25A, 1.25A, 5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "12/9/2019 8:50:18 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Cycles"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Feature"; Value = "Horizontal, Mid Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Board Edge, Cutout; Surface Mount; Through Hole, Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2129691-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specifications"; Value = "USB 3.1 (USB 3.1 Gen 2, Superspeed+)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A122008TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "30V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-A1
+Added Pin To Net: NetName=+5_USB_A Pin=J2-A4
+Added Pin To Net: NetName=NetJ2_A6 Pin=J2-A6
+Added Pin To Net: NetName=NetJ2_A7 Pin=J2-A7
+Added Pin To Net: NetName=+5_USB_A Pin=J2-A9
+Added Pin To Net: NetName=GND Pin=J2-A12
+Added Pin To Net: NetName=GND Pin=J2-B1
+Added Pin To Net: NetName=+5_USB_A Pin=J2-B4
+Added Pin To Net: NetName=NetJ2_A6 Pin=J2-B6
+Added Pin To Net: NetName=NetJ2_A7 Pin=J2-B7
+Added Pin To Net: NetName=+5_USB_A Pin=J2-B9
+Added Pin To Net: NetName=GND Pin=J2-B12
+Added Pin To Net: NetName=GND Pin=J2-S
+Added Pin To Net: NetName=GND Pin=J2-S
+Added Pin To Net: NetName=GND Pin=J2-S
+Added Pin To Net: NetName=GND Pin=J2-S
+Added Pin To Net: NetName=GND Pin=J2-S
+Added Pin To Net: NetName=GND Pin=J2-S
+Added Pin To Net: NetName=GND Pin=J2-S
+Added Pin To Net: NetName=GND Pin=J2-S
+Added Pin To Net: NetName=GND Pin=J2-S
+Added Pin To Net: NetName=GND Pin=J2-S
+Added Member To Class: ClassName=USB_C Member=Component J2 2129691-1
+Added Room: Name=Audio
+Added Room: Name=MAIN_TX
+Added Room: Name=Power_2
+Added Room: Name=USB_C

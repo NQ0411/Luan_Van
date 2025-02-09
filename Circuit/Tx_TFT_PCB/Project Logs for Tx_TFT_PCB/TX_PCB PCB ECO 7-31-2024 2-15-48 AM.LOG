@@ -1,0 +1,14 @@
+Added Component: Designator=U10(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_A7 Pin=U10-1
+Added Pin To Net: NetName=OUT- Pin=U10-2
+Added Pin To Net: NetName=NetJ2_A6 Pin=U10-3
+Added Pin To Net: NetName=USB_DP Pin=U10-4
+Added Pin To Net: NetName=+5_USB_A Pin=U10-5
+Added Pin To Net: NetName=USB_DM Pin=U10-6
+Added Member To Class: ClassName=USB_C Member=Component U10 USBLC6-2SC6

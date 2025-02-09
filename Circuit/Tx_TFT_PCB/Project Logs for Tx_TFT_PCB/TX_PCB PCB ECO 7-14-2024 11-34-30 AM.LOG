@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=MAIN_TX Member=P2
+Removed Member From Class: ClassName=MAIN_TX Member=R17
+Removed Member From Class: ClassName=MAIN_TX Member=R18
+Removed Member From Class: ClassName=MAIN_TX Member=R19
+Removed Member From Class: ClassName=MAIN_TX Member=R20
+Removed Member From Class: ClassName=MAIN_TX Member=R21
+Added Member To Class: ClassName=Audio Member=Component P2 ST-TF-003A
+Added Member To Class: ClassName=Audio Member=Component R17 4.7 kOhms
+Added Member To Class: ClassName=Audio Member=Component R18 4.7 kOhms
+Added Member To Class: ClassName=Audio Member=Component R19 4.7 kOhms
+Added Member To Class: ClassName=Audio Member=Component R20 4.7 kOhms
+Added Member To Class: ClassName=Audio Member=Component R21 4.7 kOhms

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=B+ Pin=C38-1
+Removed Pin From Net: NetName=B+ Pin=H1-1
+Removed Pin From Net: NetName=B+ Pin=R27-2
+Removed Pin From Net: NetName=B+ Pin=U5-5
+Change Net Name : Old Net Name=B+ New Net Name=B_COM
+Change Net Name : Old Net Name=OUT- New Net Name=GND
+Added Pin To Net: NetName=B+ Pin=C38-1
+Added Pin To Net: NetName=B+ Pin=H1-1
+Added Pin To Net: NetName=B+ Pin=R27-2
+Added Pin To Net: NetName=B+ Pin=U5-5
+Added Net: Name=B+
+Added Room: Name=Audio
+Added Room: Name=MAIN_TX
+Added Room: Name=Power_2
+Added Room: Name=USB_C

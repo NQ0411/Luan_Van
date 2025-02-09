@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=  NewDesignator=U7
+Added Member To Class: ClassName=USB_C Member=Component U7 DW01A
+Added Room: Name=Audio
+Added Room: Name=MAIN_TX
+Added Room: Name=Power_2
+Added Room: Name=USB_C

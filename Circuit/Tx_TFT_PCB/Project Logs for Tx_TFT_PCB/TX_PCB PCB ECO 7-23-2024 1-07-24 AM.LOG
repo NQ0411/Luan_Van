@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=+8.4 Pin=C38-1
+Added Pin To Net: NetName=+8.4 Pin=R27-2
+Added Pin To Net: NetName=+8.4 Pin=U5-5
+Change Net Name : Old Net Name=+8.4 New Net Name=B+
+Added Member To Class: ClassName=Audio Member=Component VR1 VR 10Kohm
+Added Room: Name=Audio
+Added Room: Name=MAIN_TX
+Added Room: Name=Power_2
+Added Room: Name=USB_C

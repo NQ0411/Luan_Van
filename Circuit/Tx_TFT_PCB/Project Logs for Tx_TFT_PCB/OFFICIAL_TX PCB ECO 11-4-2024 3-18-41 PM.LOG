@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=JP2-1
+Removed Pin From Net: NetName=+5 Pin=JP2-2
+Removed Pin From Net: NetName=JOY2_X Pin=JP2-3
+Removed Pin From Net: NetName=JOY2_Y Pin=JP2-4
+Removed Pin From Net: NetName=GND Pin=JP3-1
+Removed Pin From Net: NetName=+5 Pin=JP3-2
+Removed Pin From Net: NetName=JOY1_X Pin=JP3-3
+Removed Pin From Net: NetName=JOY1_Y Pin=JP3-4
+Removed Member From Class: ClassName=MAIN_TX Member=JP2
+Removed Member From Class: ClassName=MAIN_TX Member=JP3
+Added Component: Designator=H2(Header 4P DC 2.54)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Cong"; VariantName = "[No Variations]"
+Added Component: Designator=H3(Header 4P DC 2.54)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Cong"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=+5 Pin=H2-2
+Added Pin To Net: NetName=JOY2_X Pin=H2-3
+Added Pin To Net: NetName=JOY2_Y Pin=H2-4
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=+5 Pin=H3-2
+Added Pin To Net: NetName=JOY1_X Pin=H3-3
+Added Pin To Net: NetName=JOY1_Y Pin=H3-4
+Added Pin To Net: NetName=GND Pin=IC1-12
+Added Pin To Net: NetName=GND Pin=IC1-18
+Added Pin To Net: NetName=DISPL_LED Pin=IC1-38
+Added Pin To Net: NetName=GND Pin=IC1-63
+Added Member To Class: ClassName=MAIN_TX Member=Component H2 Header 4P 2.54 Duc Cong
+Added Member To Class: ClassName=MAIN_TX Member=Component H3 Header 4P 2.54 Duc Cong

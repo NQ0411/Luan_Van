@@ -1,0 +1,10 @@
+Output: Pcad for PCB
+Type  : Pcad
+From  : Project [Tx_TFT_PCB.PrjPcb]
+   Generated File[Tx_TFT_PCB.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:59:13 AM On 8/10/2024

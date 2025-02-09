@@ -1,0 +1,15 @@
+Added Component: Designator=R33(POT_PTN16-A10115K1B1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'CUI Devices'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PTN16-A10115K1B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=NetC13_1 Pin=R33-2
+Added Pin To Net: NetName=NetC14_2 Pin=R33-3
+Added Member To Class: ClassName=Power_2 Member=Component C23 10 µF
+Added Member To Class: ClassName=Audio Member=Component R33 PTN16-A10115K1B1
+Added Room: Name=Audio
+Added Room: Name=Power_2
+Added Room: Name=USB_C

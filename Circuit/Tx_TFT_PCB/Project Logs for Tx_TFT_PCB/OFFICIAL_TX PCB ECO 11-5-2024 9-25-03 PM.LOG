@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=C26 NewDesignator=C40
+Added Room: Name=Audio
+Added Room: Name=MAIN_TX
+Added Room: Name=Power_2
+Added Room: Name=USB_C

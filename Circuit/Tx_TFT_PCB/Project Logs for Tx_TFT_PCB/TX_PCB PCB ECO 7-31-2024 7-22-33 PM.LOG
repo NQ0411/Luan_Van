@@ -1,0 +1,28 @@
+Added Component: Designator=Pa(SUNTECH_ST-TF-003A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ST-TF-003A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CS_SD Pin=Pa-2
+Added Pin To Net: NetName=MOSI_SD Pin=Pa-3
+Added Pin To Net: NetName=VDD1 Pin=Pa-4
+Added Pin To Net: NetName=CLK_SD Pin=Pa-5
+Added Pin To Net: NetName=OUT- Pin=Pa-6
+Added Pin To Net: NetName=MISO_SD Pin=Pa-7
+Added Pin To Net: NetName=OUT- Pin=Pa-G1
+Added Pin To Net: NetName=OUT- Pin=Pa-G2
+Added Pin To Net: NetName=OUT- Pin=Pa-G3
+Added Pin To Net: NetName=OUT- Pin=Pa-G4
+Added Pin To Net: NetName=NetPa_1 Pin=Pa-1
+Added Pin To Net: NetName=NetPa_1 Pin=R17-1
+Added Net: Name=NetPa_1
+Added Pin To Net: NetName=NetPa_8 Pin=Pa-8
+Added Pin To Net: NetName=NetPa_8 Pin=R13-1
+Added Net: Name=NetPa_8
+Added Member To Class: ClassName=Audio Member=Component Pa ST-TF-003A
+Added Room: Name=Audio
+Added Room: Name=MAIN_TX
+Added Room: Name=Power_2
+Added Room: Name=USB_C

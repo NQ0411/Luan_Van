@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=OUT- Pin=R10-1
+Removed Pin From Net: NetName=NetC16_1 Pin=R10-2
+Removed Pin From Net: NetName=NetC17_2 Pin=R10-3
+Removed Member From Class: ClassName=Audio Member=R10
+Added Component: Designator=VR1(VR 10kohm)
+Added Pin To Net: NetName=NetC16_1 Pin=VR1-0
+Added Pin To Net: NetName=NetC17_2 Pin=VR1-1
+Added Pin To Net: NetName=OUT- Pin=VR1-2
+Added Member To Class: ClassName=Audio Member=Component VR1 VR 10Kohm
+Added Room: Name=Audio
+Added Room: Name=MAIN_TX
+Added Room: Name=Power_2
+Added Room: Name=USB_C

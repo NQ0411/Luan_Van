@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VDD1 Pin=D5-1
+Removed Pin From Net: NetName=VDD1 Pin=D5-2
+Removed Pin From Net: NetName=+5 Pin=D6-1
+Removed Pin From Net: NetName=+5 Pin=D6-2
+Removed Pin From Net: NetName=+5 Pin=D7-1
+Removed Pin From Net: NetName=+5 Pin=D7-2
+Removed Pin From Net: NetName=+5 Pin=D8-2
+Removed Pin From Net: NetName=+5 Pin=D9-2
+Removed Member From Class: ClassName=MAIN_TX Member=D5
+Removed Member From Class: ClassName=MAIN_TX Member=D6
+Removed Member From Class: ClassName=MAIN_TX Member=D7
+Added Member To Class: ClassName=MAIN_TX Member=Component D11 Yellow
+Added Room: Name=Audio
+Added Room: Name=MAIN_TX
+Added Room: Name=Power_2
+Added Room: Name=USB_C

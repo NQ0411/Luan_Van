@@ -1,0 +1,7 @@
+Added Member To Class: ClassName=Power_2 Member=Component R20 10 kOhms
+Added Member To Class: ClassName=Audio Member=Component U1 PAM8403DR
+Added Member To Class: ClassName=USB_C Member=Component U7 TP4056
+Added Room: Name=Audio
+Added Room: Name=MAIN_TX
+Added Room: Name=Power_2
+Added Room: Name=USB_C

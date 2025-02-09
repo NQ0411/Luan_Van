@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=B- Pin=Q2-2
+Removed Pin From Net: NetName=B- Pin=Q2-3
+Removed Pin From Net: NetName=OUT- Pin=Q2-6
+Removed Pin From Net: NetName=OUT- Pin=Q2-7
+Removed Member From Class: ClassName=USB_C Member=Q2
+Added Room: Name=MAIN_TX
+Added Room: Name=Power_2
+Added Room: Name=USB_C

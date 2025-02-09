@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=ADC_Pin Pin=U1-67
+Removed Pin From Net: NetName=ADC_VR_ESC Pin=U1-68
+Added Pin To Net: NetName=ADC_Pin Pin=U1-15
+Added Pin To Net: NetName=ADC_VR_ESC Pin=U1-16
+Added Member To Class: ClassName=USB_C Member=Component D6 BAT60JFILM
+Added Member To Class: ClassName=MAIN_TX Member=Component R1 680 Ohms
+Added Room: Name=Audio
+Added Room: Name=MAIN_TX
+Added Room: Name=Power_2
+Added Room: Name=USB_C

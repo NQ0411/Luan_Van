@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=R33-1
+Removed Pin From Net: NetName=NetC13_1 Pin=R33-2
+Removed Pin From Net: NetName=NetC14_2 Pin=R33-3
+Added Component: Designator=R35(POT_PTN16-A10115K1B1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'CUI Devices'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PTN16-A10115K1B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=NetC13_1 Pin=R35-2
+Added Pin To Net: NetName=NetC14_2 Pin=R35-3
+Added Member To Class: ClassName=Audio Member=Component R35 PTN16-A10115K1B1

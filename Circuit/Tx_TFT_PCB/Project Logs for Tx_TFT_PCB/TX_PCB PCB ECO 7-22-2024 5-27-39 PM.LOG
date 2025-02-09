@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+5 Pin=D1-1
+Added Pin To Net: NetName=+8.4 Pin=D1-1
+Added Pin To Net: NetName=+5 Pin=D8-2
+Added Pin To Net: NetName=+5 Pin=D9-2
+Added Member To Class: ClassName=MAIN_TX Member=Component D11 Yellow
+Added Room: Name=Audio
+Added Room: Name=MAIN_TX
+Added Room: Name=Power_2
+Added Room: Name=USB_C

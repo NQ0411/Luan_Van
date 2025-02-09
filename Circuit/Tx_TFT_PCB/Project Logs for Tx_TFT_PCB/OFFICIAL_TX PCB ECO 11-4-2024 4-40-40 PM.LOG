@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C22 NewDesignator=C23
+Added Member To Class: ClassName=Power_2 Member=Component C23 10 µF
+Added Room: Name=Power_2
+Added Room: Name=USB_C

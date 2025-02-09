@@ -1,0 +1,31 @@
+Added Component: Designator=J2(BELFUSE_SS-52400-002)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4629247"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Stewart Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=4629247"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SS-52400-002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS-52400-002/Stewart%20Connector/view-part/4629247/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-A1
+Added Pin To Net: NetName=+5_USB_A Pin=J2-A4
+Added Pin To Net: NetName=NetJ2_A6 Pin=J2-A6
+Added Pin To Net: NetName=NetJ2_A7 Pin=J2-A7
+Added Pin To Net: NetName=+5_USB_A Pin=J2-A9
+Added Pin To Net: NetName=GND Pin=J2-A12
+Added Pin To Net: NetName=GND Pin=J2-B1
+Added Pin To Net: NetName=+5_USB_A Pin=J2-B4
+Added Pin To Net: NetName=NetJ2_A6 Pin=J2-B6
+Added Pin To Net: NetName=NetJ2_A7 Pin=J2-B7
+Added Pin To Net: NetName=+5_USB_A Pin=J2-B9
+Added Pin To Net: NetName=GND Pin=J2-B12
+Added Pin To Net: NetName=GND Pin=J2-G1
+Added Pin To Net: NetName=GND Pin=J2-G2
+Added Pin To Net: NetName=GND Pin=J2-G3
+Added Pin To Net: NetName=GND Pin=J2-G4
+Added Pin To Net: NetName=GND Pin=J2-S1
+Added Pin To Net: NetName=GND Pin=J2-S2
+Added Pin To Net: NetName=GND Pin=J2-S3
+Added Pin To Net: NetName=GND Pin=J2-S4
+Added Member To Class: ClassName=USB_C Member=Component J2 SS-52400-002

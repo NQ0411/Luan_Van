@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=C42-1
+Removed Pin From Net: NetName=+5_USB_A Pin=C42-2
+Removed Pin From Net: NetName=+5_USB Pin=C43-1
+Removed Pin From Net: NetName=GND Pin=C43-2
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=+5_USB Pin=D6-1
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=+5_USB Pin=J3-2
+Removed Pin From Net: NetName=+5_USB_A Pin=J3-3
+Removed Pin From Net: NetName=+5_USB Pin=R36-2
+Removed Member From Class: ClassName=USB_C Member=C42
+Removed Member From Class: ClassName=USB_C Member=C43
+Removed Member From Class: ClassName=USB_C Member=D5
+Removed Member From Class: ClassName=USB_C Member=J3
+Removed Member From Class: ClassName=USB_C Member=R36
+Added Pin To Net: NetName=+5_USB_A Pin=D6-1
+Added Pin To Net: NetName=NetJ_A6 Pin=U10-1
+Added Net: Name=NetJ_A6
+Added Pin To Net: NetName=NetJ_A7 Pin=U10-3
+Added Net: Name=NetJ_A7
+Added Room: Name=Audio
+Added Room: Name=MAIN_TX
+Added Room: Name=Power_2
+Added Room: Name=USB_C
